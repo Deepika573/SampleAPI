@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qT7NT7rnZSL8dbPJ5uweQEa8SxTyVb0jrZuNgA9DCsu8rTNbaImL9MZ+xyPeRTY2mR/Q3nI7R1BtHk5IphdvSw==",
+  "dgSpecHash": "64DvOxCYggqH+DhsQmLiwWASK3paU0srSwd3q/WOOEqCFbpOggH4+8NFwOLzcORMbLEkbNa65VRqhorIYv6ybw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DeepikaRawat\\source\\repos\\SampleAPIs\\SampleAPIs\\SampleAPIs.csproj",
   "expectedPackageFiles": [
@@ -153,7 +153,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         "net6.0"
